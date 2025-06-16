@@ -1,7 +1,7 @@
 # 🛒 TechStore - Modern E-ticaret Platform
 
 Lisans dersi için geliştirilmiş tam özellikli modern e-ticaret platformu. Node.js ve Express.js kullanılarak backend, modern HTML/CSS/JavaScript ile frontend geliştirilmiştir.
-
+Emre Şık - Hilmi Özbay
 ## ✨ Özellikler
 
 ### 🎨 **Kullanıcı Arayüzü**
