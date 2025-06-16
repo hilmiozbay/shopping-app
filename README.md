@@ -255,17 +255,19 @@ web_proje/
 - **CORS Protection**: Cross-origin güvenliği
 
 
-## 👨‍💻 Geliştiriciler
+# 👨‍💻 Proje Geliştiricileri
 
+## Emre Şık  
+**Bilgisayar Mühendisi**  
+📧 **Email:** [emresik@marun.edu.tr](mailto:emresik@marun.edu.tr)  
+🌐 **GitHub:** [github.com/Emres1k](https://github.com/Emres1k)
 
-**Emre Şık** - Bilgisayar Mühendisi  
-📧 Email: emre@example.com  
-🌐 GitHub: [GitHub Profile]
+---
 
-
-**Hilmi Özbay** - Bilgisayar Mühendisi
-📧 Email: ozbayyhilmi@gmail.com
-🌐 GitHub: https://github.com/hilmiozbay
+## Hilmi Özbay  
+**Bilgisayar Mühendisi**  
+📧 **Email:** [hilmiozbay@marun.edu.tr](mailto:hilmiozbay@marun.edu.tr)  
+🌐 **GitHub:** [github.com/hilmiozbay](https://github.com/hilmiozbay)
 
 ---
 
