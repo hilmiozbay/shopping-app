@@ -254,21 +254,23 @@ web_proje/
 - **Role-based Access**: Yetki tabanlı erişim
 - **CORS Protection**: Cross-origin güvenliği
 
-## 📄 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır.
+## 👨‍💻 Geliştiriciler
 
-## 👨‍💻 Geliştirici
 
-**Emre** - Bilgisayar Mühendisliği Lisans Dersi  
+**Emre Şık** - Bilgisayar Mühendisi  
 📧 Email: emre@example.com  
 🌐 GitHub: [GitHub Profile]
+
+**Hilmi Özbay** - Bilgisayar Mühendisi
+📧 Email: ozbayyhilmi@gmail.com
+🌐 GitHub: https://github.com/hilmiozbay
 
 ---
 
 ## 🎓 Eğitim Amaçlı Proje
 
-Bu proje **lisans dersi kapsamında** geliştirilmiş kapsamlı bir e-ticaret platformudur. Modern web teknolojileri kullanılarak, gerçek dünya senaryolarına uygun bir şekilde tasarlanmıştır.
+Bu proje **Marmara Üniveristesi Bilgisayar mühendisliği web programlama lisans dersi kapsamında** geliştirilmiş kapsamlı bir e-ticaret platformudur. Modern web teknolojileri kullanılarak, gerçek dünya senaryolarına uygun bir şekilde tasarlanmıştır.
 
 ### Öğrenilen Teknolojiler:
 - Node.js & Express.js backend geliştirme
