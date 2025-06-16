@@ -262,6 +262,7 @@ web_proje/
 📧 Email: emre@example.com  
 🌐 GitHub: [GitHub Profile]
 
+
 **Hilmi Özbay** - Bilgisayar Mühendisi
 📧 Email: ozbayyhilmi@gmail.com
 🌐 GitHub: https://github.com/hilmiozbay
