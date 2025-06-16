@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "email": "admin@techstore.com",
+    "password": "admin123",
+    "firstName": "Admin",
+    "lastName": "User",
+    "role": "admin",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100",
+    "createdAt": "2024-01-01T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "email": "emre@example.com",
+    "password": "123456",
+    "firstName": "Emre",
+    "lastName": "Yılmaz",
+    "role": "user",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100",
+    "createdAt": "2024-01-02T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "email": "test@example.com",
+    "password": "test123",
+    "firstName": "Test",
+    "lastName": "User",
+    "role": "user",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100",
+    "createdAt": "2024-01-03T00:00:00Z",
+    "isActive": true
+  }
+] 

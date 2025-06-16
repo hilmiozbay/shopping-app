@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Telefon",
+    "description": "Akıllı telefonlar ve mobil cihazlar",
+    "icon": "📱"
+  },
+  {
+    "id": 2,
+    "name": "Bilgisayar",
+    "description": "Dizüstü ve masaüstü bilgisayarlar",
+    "icon": "💻"
+  },
+  {
+    "id": 3,
+    "name": "Tablet",
+    "description": "Tabletler ve e-okuyucular",
+    "icon": "📱"
+  },
+  {
+    "id": 4,
+    "name": "Aksesuar",
+    "description": "Teknoloji aksesuarları ve çevre birimleri",
+    "icon": "🎧"
+  }
+] 

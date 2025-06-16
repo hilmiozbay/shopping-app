@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "description": "Apple'ın en yeni amiral gemisi telefonu. A17 Pro çip, titanium kasasa ve gelişmiş kamera sistemi ile.",
+    "price": 45000,
+    "originalPrice": 50000,
+    "category": "Telefon",
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400",
+    "rating": 4.8,
+    "stock": 25,
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "MacBook Air M2",
+    "description": "Ultra ince ve hafif dizüstü bilgisayar. M2 çip ile güçlü performans ve uzun pil ömrü.",
+    "price": 32000,
+    "originalPrice": 35000,
+    "category": "Bilgisayar",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400",
+    "rating": 4.9,
+    "stock": 15,
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5",
+    "description": "Sektörün en iyi gürültü önleyici kulaklık teknolojisi. Kablosuz ve premium ses kalitesi.",
+    "price": 8500,
+    "originalPrice": 9500,
+    "category": "Aksesuar",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+    "rating": 4.7,
+    "stock": 50,
+    "featured": false
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "Android'in en güçlü telefonu. S Pen desteği, gelişmiş kamera ve uzun pil ömrü.",
+    "price": 42000,
+    "originalPrice": 46000,
+    "category": "Telefon",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400",
+    "rating": 4.6,
+    "stock": 30,
+    "featured": true
+  },
+  {
+    "id": 5,
+    "name": "iPad Pro 12.9",
+    "description": "Profesyoneller için tasarlanmış tablet. M2 çip, Liquid Retina XDR ekran ve Apple Pencil desteği.",
+    "price": 28000,
+    "originalPrice": 31000,
+    "category": "Tablet",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400",
+    "rating": 4.8,
+    "stock": 20,
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Dell XPS 13",
+    "description": "Kompakt ve güçlü dizüstü bilgisayar. Intel Core i7 işlemci ve premium tasarım.",
+    "price": 25000,
+    "originalPrice": 28000,
+    "category": "Bilgisayar",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+    "rating": 4.5,
+    "stock": 12,
+    "featured": false
+  },
+  {
+    "id": 7,
+    "name": "AirPods Pro 2",
+    "description": "Apple'ın en gelişmiş kablosuz kulaklığı. Aktif gürültü önleme ve spatial audio.",
+    "price": 6500,
+    "originalPrice": 7200,
+    "category": "Aksesuar",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400",
+    "rating": 4.9,
+    "stock": 40,
+    "featured": true
+  },
+  {
+    "id": 8,
+    "name": "Apple Watch Series 9",
+    "description": "En gelişmiş Apple Watch. Sağlık takibi, fitness özellikleri ve akıllı bildirimler.",
+    "price": 12000,
+    "originalPrice": 13500,
+    "category": "Aksesuar",
+    "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=400",
+    "rating": 4.7,
+    "stock": 35,
+    "featured": false
+  },
+  {
+    "id": 9,
+    "name": "Samsung Galaxy Tab S9",
+    "description": "Android'in en güçlü tableti. S Pen dahil, AMOLED ekran ve uzun pil ömrü.",
+    "price": 18000,
+    "originalPrice": 20000,
+    "category": "Tablet",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400",
+    "rating": 4.4,
+    "stock": 18,
+    "featured": false
+  },
+  {
+    "id": 10,
+    "name": "Gaming Mekanik Klavye",
+    "description": "RGB aydınlatmalı mekanik gaming klavye. Blue switch ve anti-ghosting teknolojisi.",
+    "price": 2500,
+    "originalPrice": 3000,
+    "category": "Aksesuar",
+    "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=400",
+    "rating": 4.3,
+    "stock": 60,
+    "featured": false
+  }
+] 
