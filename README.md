@@ -1,7 +1,7 @@
 # 🛒 TechStore - Modern E-ticaret Platform
 
-Lisans dersi için geliştirilmiş tam özellikli modern e-ticaret platformu. Node.js ve Express.js kullanılarak backend, modern HTML/CSS/JavaScript ile frontend geliştirilmiştir.
-Emre Şık - Hilmi Özbay
+Marmara Üniversitesi Bilgisayar Mühendisliği Web Programlama Lisans dersi için geliştirilmiş tam özellikli modern e-ticaret platformu. Node.js ve Express.js kullanılarak backend, modern HTML/CSS/JavaScript ile frontend geliştirilmiştir. 
+
 ## ✨ Özellikler
 
 ### 🎨 **Kullanıcı Arayüzü**
@@ -257,15 +257,15 @@ web_proje/
 
 # 👨‍💻 Proje Geliştiricileri
 
-## Emre Şık  
-**Bilgisayar Mühendisi**  
+## Emre Şık   
+**Bilgisayar Mühendisliği**  
 📧 **Email:** [emresik@marun.edu.tr](mailto:emresik@marun.edu.tr)  
 🌐 **GitHub:** [github.com/Emres1k](https://github.com/Emres1k)
 
 ---
 
 ## Hilmi Özbay  
-**Bilgisayar Mühendisi**  
+**Bilgisayar Mühendisliği**  
 📧 **Email:** [hilmiozbay@marun.edu.tr](mailto:hilmiozbay@marun.edu.tr)  
 🌐 **GitHub:** [github.com/hilmiozbay](https://github.com/hilmiozbay)
 
